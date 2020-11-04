@@ -1,4 +1,4 @@
-# CS 577 Project
+# 577-Project
 
 Datasets
 
