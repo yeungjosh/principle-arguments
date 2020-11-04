@@ -1,7 +1,7 @@
 # CS 577 Project
 
 
-[Paper](https://github.com/yeungjosh/principle-arguments/blob/main/NLP_Final_Report.pdf)
+## [Paper](https://github.com/yeungjosh/principle-arguments/blob/main/NLP_Final_Report.pdf)
 
 
 Datasets
