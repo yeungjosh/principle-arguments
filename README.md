@@ -1,4 +1,4 @@
-# CS 577 Project
+# NLP Project
 
 
 ## [Paper](https://github.com/yeungjosh/principle-arguments/blob/main/NLP_Final_Report.pdf)
